@@ -20,5 +20,13 @@ Cette configuration lance une base H2 en mémoire, met automatiquement les table
 ## Interface admin:
 <img width="1918" height="973" alt="admin interface" src="https://github.com/user-attachments/assets/d330d227-d83c-4180-9a24-5b4302f4918f" />
 
+## H2 Database:
+<img width="1913" height="948" alt="h2 db interface" src="https://github.com/user-attachments/assets/26c3adb9-2b1d-498d-9a10-4595182d049f" />
+
+## Test de la supression:
+Message d'etes vous sure avant de supprimer le produit
+<img width="1910" height="879" alt="Etes vous sure Tp3" src="https://github.com/user-attachments/assets/412ba101-073f-4ee1-9d74-585eda1032a0" />
+
+
 
 
